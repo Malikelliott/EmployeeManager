@@ -1,0 +1,17 @@
+C:\Users\malik\source\repos\Quiz3-1\Quiz3-1\bin\Debug\Quiz3-1.exe.config
+C:\Users\malik\source\repos\Quiz3-1\Quiz3-1\bin\Debug\Quiz3-1.exe
+C:\Users\malik\source\repos\Quiz3-1\Quiz3-1\bin\Debug\Quiz3-1.pdb
+C:\Users\malik\source\repos\Quiz3-1\Quiz3-1\obj\Debug\Quiz3-1.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\Quiz3-1\Quiz3-1\obj\Debug\MainWindow.g.cs
+C:\Users\malik\source\repos\Quiz3-1\Quiz3-1\obj\Debug\App.g.cs
+C:\Users\malik\source\repos\Quiz3-1\Quiz3-1\obj\Debug\Quiz3-1_MarkupCompile.cache
+C:\Users\malik\source\repos\Quiz3-1\Quiz3-1\obj\Debug\Quiz3-1_MarkupCompile.lref
+C:\Users\malik\source\repos\Quiz3-1\Quiz3-1\obj\Debug\MainWindow.baml
+C:\Users\malik\source\repos\Quiz3-1\Quiz3-1\obj\Debug\Quiz3-1.g.resources
+C:\Users\malik\source\repos\Quiz3-1\Quiz3-1\obj\Debug\Quiz3_1.Properties.Resources.resources
+C:\Users\malik\source\repos\Quiz3-1\Quiz3-1\obj\Debug\Quiz3-1.csproj.GenerateResource.cache
+C:\Users\malik\source\repos\Quiz3-1\Quiz3-1\obj\Debug\Quiz3-1.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\Quiz3-1\Quiz3-1\obj\Debug\Quiz3-1.exe
+C:\Users\malik\source\repos\Quiz3-1\Quiz3-1\obj\Debug\Quiz3-1.pdb
+C:\Users\malik\source\repos\Quiz3-1\Quiz3-1\obj\Debug\LoginWindow.g.cs
+C:\Users\malik\source\repos\Quiz3-1\Quiz3-1\obj\Debug\LoginWindow.baml
